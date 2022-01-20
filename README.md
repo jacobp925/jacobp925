@@ -7,4 +7,3 @@
 #
 ### 💼 Organizations:
 - **[StellarDev](discord.stellardev.org)**
-- **[TheArcade](discord.thearcade.net)**
