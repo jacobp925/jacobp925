@@ -1,9 +1,10 @@
 ### Hey, I'm Jacob! 👋
 
-*A majority of my work is private for **[StellarDev](discord.stellardev.org)***
+*I'm a developer at **[NFT Worlds](https://twitter.com/nftworldsNFT)***
 #
 ### 📝 Contact Me:
 - **Discord:** jacob#0001
 #
-### 💼 Organizations:
-- **[StellarDev](discord.stellardev.org)**
+### 💼 Other Business:
+- *Project Manager @ **[White Sands Game](https://twitter.com/whitesandsgame)***
+- *Former Co-Founder @ **[StellarDev](https://www.stellardev.org/)***
