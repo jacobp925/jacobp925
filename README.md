@@ -1,10 +1,11 @@
 ### Hey, I'm Jacob! 👋
 
-*I'm a developer at **[NFT Worlds](https://twitter.com/nftworldsNFT)***
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobp925&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,1A1B27,151724)](https://github.com/jacobp925/github-readme-stats)
+
+Building software at **[NFT Worlds](https://twitter.com/nftworldsNFT)**<br/>
+Currently studying cybersecurity at ASU
+
 #
 ### 📝 Contact Me:
 - **Discord:** jacob#0001
 #
-### 💼 Other Business:
-- *Project Manager @ **[White Sands Game](https://twitter.com/whitesandsgame)***
-- *Former Co-Founder @ **[StellarDev](https://www.stellardev.org/)***
